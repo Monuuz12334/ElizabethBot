@@ -40,7 +40,7 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 PM_START_TEXT = f"""
 `Hi..Welcome` [🦋](https://telegra.ph/file/debaabe44781f92783315.jpg)
-`I'm`  єlízαвєth
+`I'm`  moluuzqueen
 `I'm here to help you manage your groups.. Click Help button to find out more about how to use me to my full potential..`
 """
 
@@ -49,7 +49,7 @@ buttons = [[InlineKeyboardButton(text=" HELP AND COMMANDS ❓",
 ]]
 
 buttons += [[InlineKeyboardButton(text="♻️ ADD ME TO YOUR GROUP ♻️",
-                                  url="t.me/Elizabeth_TgBot?startgroup=true"),
+                                  url="t.me/moluuzqueen_TgBot?startgroup=true"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="SOURCE CODE 💫",
@@ -63,7 +63,7 @@ buttons += [[InlineKeyboardButton(text="🎀 CLOSE THE MENU 🎀",
 
 
 HELP_STRINGS = f"""
-`Hi.. I'm` єlízαвєth[🦋](https://telegra.ph/file/54ed9e0d6eef2cc730f12.jpg)
+`Hi.. I'm` moluuzqueen[🦋](https://telegra.ph/file/54ed9e0d6eef2cc730f12.jpg)
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
@@ -177,7 +177,7 @@ def start(update, context):
                 disable_web_page_preview=False,
             )
     else:
-        update.effective_message.reply_text("Heya, 𝓔𝓵𝓲𝔃𝓪𝓫𝓮𝓽𝓱࿐ Here, How can I help you? 🧐")
+        update.effective_message.reply_text("Heya, moluuzqueen Here, How can I help you? 🧐")
 
 
 
