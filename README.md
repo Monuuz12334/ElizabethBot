@@ -37,7 +37,7 @@ from Elizabeth.sample_config import Config
 
 class Development(Config):
     OWNER_ID = 1584907723   # my telegram ID
-    OWNER_USERNAME = "mr_srlock"  # my telegram username
+    OWNER_USERNAME = "Monuuz12334"  # my telegram username
     API_KEY = "your bot api key"  # my api key, as provided by the botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     MESSAGE_DUMP = '-1234567890' # some group chat that your bot is a member of
@@ -133,4 +133,4 @@ repeat for your username, password, hostname (localhost?), port (5432?), and db 
 Keep Credits for [me](https://github.com/MR-SHRLCK) and [prince](https://github.com/Mr-Dark-Prince)
 <b> Note one think </b> I waste my many time in front my pc for bring back she.so that's respectable.i know you import or frok this repo and make changes.. that's ok I don't care. But kepp Credits.if you Kang this repo without credits I believe you are a bitch..
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-SHRLCK/ElizabethBot.git)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Monuuz12334/ElizabethBot.git)
